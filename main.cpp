@@ -15,7 +15,7 @@ int main()
     UkladRownanLiniowych   UklRown;
 
     cout << endl << " Start programu " << endl << endl;
-
+    cout<<"Wprowadź wspolczynniki układu" <<endl<<endl;
 
     cin>>UklRown;
     cout<<UklRown;
