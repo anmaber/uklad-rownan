@@ -28,6 +28,6 @@ int main()
     cout<<"\t"<<UklRown.rozwiaz()<<endl<<endl;
     cout<<"Wektor bledu:\t Ax-b = ("<<UklRown.obliczblad()<<")"<<endl<<endl;
     cout<<"Dlugosc wektora bledu ||Ax-b|| = "<<UklRown.obliczdlbl()<<endl;
-    cout<<"KONIEC DZIALANIA PROGRAMU"<<endl;
+
 
 }
